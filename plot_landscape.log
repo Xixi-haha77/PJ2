@@ -1,0 +1,22 @@
+2025-06-08 10:13:58,411 - 文件未找到: D:\course\Neural_Network_Project\PJ2\loss_landscape_bn.npy
+2025-06-08 10:13:58,412 - 文件未找到: D:\course\Neural_Network_Project\PJ2\loss_landscape_a.npy
+2025-06-08 11:01:04,462 - 文件未找到: D:\course\Neural_Network_Project\PJ2\loss_landscape_bn.npy
+2025-06-08 11:01:04,464 - 文件未找到: D:\course\Neural_Network_Project\PJ2\loss_landscape_a.npy
+2025-06-08 11:13:12,322 - 文件未找到: D:\course\Neural_Network_Project\PJ2\loss_landscape_bn.npy
+2025-06-08 11:13:12,323 - 文件未找到: D:\course\Neural_Network_Project\PJ2\loss_landscape_a.npy
+项目路径: D:\course\Neural_Network_Project\PJ2
+文件未找到: 文件不存在: D:\course\Neural_Network_Project\PJ2\loss_landscape_bn.npy
+项目路径: D:\course\Neural_Network_Project\PJ2
+模型目录: D:\course\Neural_Network_Project\PJ2\models
+图表目录: D:\course\Neural_Network_Project\PJ2\plots
+错误: 文件未找到: D:\course\Neural_Network_Project\PJ2\models\loss_landscape_vgg_a_bn.npy
+请检查VGG-A+BN损失数据文件是否存在
+错误: 文件未找到: D:\course\Neural_Network_Project\PJ2\models\loss_landscape_vgg_a.npy
+请检查VGG-A损失数据文件是否存在
+项目路径: D:\course\Neural_Network_Project\PJ2
+模型目录: D:\course\Neural_Network_Project\PJ2\models
+图表目录: D:\course\Neural_Network_Project\PJ2\plots
+成功加载 VGG-A+BN 损失数据
+图表保存至: D:\course\Neural_Network_Project\PJ2\plots\bn_loss_landscape.png
+成功加载 VGG-A 损失数据
+图表保存至: D:\course\Neural_Network_Project\PJ2\plots\vgg_a_loss_landscape.png
